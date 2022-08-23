@@ -2,7 +2,7 @@ import discord
 from stockx import search
 
 
-TOKEN = 'MTAxMDMxODI1MjU0ODgyNTE4OQ.G0w1mw.OSEbC9WwNRwd8fk6v_8mbCpRQEY05LIcu_ez5M'
+TOKEN = ''
 
 intents = discord.Intents().all()
 bot = discord.Client(command_prefix='!', intents=intents)
